@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_local
+['remote "dvc_local"']
+    url = D:\dvc-storage
